@@ -1,0 +1,36 @@
+*{
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size:50px;
+}
+H1 {
+  Color:ForestGreen;
+}
+
+p {
+  Color:DarkSlateGrey;
+}
+P {
+  font-size:20px
+}
+a{
+  color:MediumSpringGreen;
+}
+a{
+  font-family: "Georgia";
+  font-size: 18px
+}
+Ul,Ol {
+  Font-size: 25px
+}
+
+Img {
+  Display:Block;
+  Margin:auto;
+  Width:50%;
+  max-width:100%;
+  height:Auto;
+  border-radius:95%;
+}

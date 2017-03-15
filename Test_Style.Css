@@ -1,0 +1,57 @@
+*{
+  font-family: Helvetica;
+  }
+  body {
+    background-image: url("Red_Carbon.png");
+    background-color:#cccccc;
+  }
+h1,h2,h5,h6 {
+  text-align:center;
+}
+h1 {
+  font-size:50px;
+ 
+}
+h1 {
+  Color:FireBrick;
+}
+
+p {
+  color:Slategrey;
+}
+P {
+  font-size:20px;
+}
+a{
+  color:MediumSpringGreen;
+}
+a{
+  font-family: "Georgia";
+  font-size: 18px
+}
+ul,ol {
+  font-size: 25px;
+  color:indianred;
+}
+h5{
+  font-style: italic;
+  font-size: 20px;
+  color:Yellow;
+
+}
+h6{
+  font-size:25px;
+  color:red;
+  outline-color:black;
+  outline-width: 5px;
+
+}
+
+img {
+  Display:Block;
+  Margin:auto;
+  Width:50%;
+  max-width:100%;
+  height:Auto;
+  border-radius:8px;
+}
